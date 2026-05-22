@@ -1,6 +1,6 @@
 ---
 title: "Evidencia 1 | Analisis Exploratorio de los datos"
-author: "Daniella Estela Sánchez Hernández A00845754, Andres Rodriguez Cantu A01287002, Isabella Anaís De la Garza Almazán A01663196"
+author: "Daniella Estela Sánchez Hernández A00845754, Andres Rodriguez Cantu A01287002, Isabella Anaís De la Garza Almazán A01663196 Daphne Islas Esquivel A01199119"
 date: "`r format(Sys.Date(), '%Y-%m-%d')`"
 bibliography: src/references.bib
 csl: src/apa.csl
